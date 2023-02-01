@@ -1,2 +1,9 @@
 # multiply_with_strigin
 Multiply with String
+
+```
+1241341235
+4212512626126234
+5229165625768632579458990  Grade-school: 42.438 us
+5229165625768632579458990  Karatsuba: 109.303 us
+```
