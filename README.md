@@ -1,4 +1,4 @@
-# multiply_with_strigin
+# multiply_with_string
 Multiply with String
 
 ```
